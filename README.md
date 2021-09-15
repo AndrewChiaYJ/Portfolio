@@ -13,4 +13,4 @@ Hello! I am Andrew, and I am aspiring to be Data Scientist, after working as a D
 
 *Sep 2021 | https://github.com/AndrewChiaYJ/Fake-News-Classification*
 
-![alt text](XGBoost_Confusion_Matrix.PNG)
+![](https://github.com/AndrewChiaYJ/Portfolio/tree/master/Visualisations/XGBoost_Confusion_Matrix.PNG)
