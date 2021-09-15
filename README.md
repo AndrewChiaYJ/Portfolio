@@ -33,8 +33,30 @@ Python
 
 `numpy` `pandas` `matplotlib` `seaborn` `requests` `regex` `nltk` `tensorflow` `scikit-learn` `CountVectorizer` `TfidfVectorizer` `Pipeline` `LogisticRegression` `BernoulliNB` `MultinomialNB` `RandomForestClassifier` `AdaBoostClassifier` `GradientBoostingClassifier` `XGBClassifier` `SVC` `BertTokenizer ` `BERTModel` `Flask` 
 
+
 ### 2. West Nile Virus Prediction (General Assembly Course)
 
 *Aug 2021 | https://github.com/AndrewChiaYJ/West-Nile-Virus-Prediction*
 
 <img src="./Visualisations/West_Nile_Virus_Prediction.PNG">
+
+West Nile virus (WNV) is a single-stranded RNA virus that causes West Nile fever. In Chicago, this virus was detected for the first time in 2002, and 225 human cases were reported that year. In view of presence of this virus, Chicago Department of Public Health (CDPH) has set up a surveillance and control system to trap mosquitos and test for the presence of WNV. This project aims to use these surveillance data to predict the places in Chicago where the West Nile Virus is present, and hence to enable a more accurate and effective plan in deploying pesticides spraying throughout the state. 
+
+Using Gradient Boosting (best performing model out of all models tried), it gave a relatively high ROC AUC of 0.82, as well as F1 Score of 34%.  With this model, it is found that the current (2013) spraying initiative is not effective, as some sprayed areas do not have presence of West Nile Virus, and some areas with serious presence of West Nile Virus are not sprayed. This is shown in the figure above. Therefore, the spraying efforts should be concentrated in areas with presence of West Nile Virus.
+
+After conducting a cost-benefit analysis, we found that the benefit obtained by spraying (cost per WNV infection and overall well being of the city) outweigh the cost of spraying. Hence, it is concluded that spraying is necessary. 
+
+#### Language
+
+Python
+
+#### Key Libraries
+
+`numpy` `pandas` `matplotlib` `seaborn` `scikit-learn` `RandomForestClassifier` `AdaBoostClassifier` `GradientBoostingClassifier` `SVC` 
+
+
+### 3. Subreddit Post Classification (General Assembly Course)
+
+*Aug 2021 | https://github.com/AndrewChiaYJ/Subreddit-classification*
+
+<img src="./Visualisations/Subreddit_classification.PNG">
