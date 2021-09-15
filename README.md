@@ -13,8 +13,6 @@ Hello! I am Andrew, and I am aspiring to be Data Scientist, after working as a D
     - [SAT and ACT Scores Analysis](#5-sat-and-act-scores-analysis-general-assembly-course)
 <br>
 
-
-
 </br>
 
 ## Data Science Projects
@@ -43,11 +41,10 @@ Python
 
 `numpy` `pandas` `matplotlib` `seaborn` `requests` `regex` `nltk` `tensorflow` `scikit-learn` `CountVectorizer` `TfidfVectorizer` `Pipeline` `LogisticRegression` `BernoulliNB` `MultinomialNB` `RandomForestClassifier` `AdaBoostClassifier` `GradientBoostingClassifier` `XGBClassifier` `SVC` `BertTokenizer ` `BERTModel` `Flask` 
 
-<pre>
+<br>
 
 
-
-</pre>
+</br>
 
 ### 2. West Nile Virus Prediction (General Assembly Course)
 
@@ -69,11 +66,10 @@ Python
 
 `numpy` `pandas` `matplotlib` `seaborn` `scikit-learn` `RandomForestClassifier` `AdaBoostClassifier` `GradientBoostingClassifier` `SVC` 
 
-<pre>
+<br>
 
 
-
-</pre>
+</br>
 
 ### 3. Subreddit Post Classification (General Assembly Course)
 
@@ -96,11 +92,10 @@ Python
 `numpy` `pandas` `matplotlib` `seaborn` `requests` `regex` `nltk` `scikit-learn` `CountVectorizer` `TfidfVectorizer` `Logistic Regression` `BernoulliNB` `MultinomialNB` `GaussianNB`
 
 
-<pre>
+<br>
 
 
-
-</pre>
+</br>
 
 ### 4. Ames Housing Price Prediction (General Assembly Course)
 
@@ -125,11 +120,10 @@ Python
 `numpy` `pandas` `matplotlib` `seaborn` `scikit-learn` `LinearRegression` `Lasso` `Ridge`
 
 
-<pre>
+<br>
 
 
-
-</pre>
+</br>
 
 
 ### 5. SAT and ACT Scores Analysis (General Assembly Course)
