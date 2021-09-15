@@ -13,4 +13,4 @@ Hello! I am Andrew, and I am aspiring to be Data Scientist, after working as a D
 
 *Sep 2021 | https://github.com/AndrewChiaYJ/Fake-News-Classification*
 
-<img src="./Visualisations/Fake_News_Classifications.PNG">
+<img src="./Visualisations/Fake_News_Classifications.png">
