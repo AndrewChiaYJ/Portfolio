@@ -6,6 +6,9 @@ Hello! I am Andrew, and I am aspiring to be Data Scientist, after working as a D
 ### Contents
 
 1. [Data Science Projects](#Data-Science-Projects)
+    - [Fake News Classification](#1.-Fake-News-Classification-(General-Assembly-Course))
+    - [West Nile Virus Prediction](#2.-West-Nile-Virus-Prediction-(General-Assembly-Course))
+    - [Subreddit Post Classification](#3.-Subreddit-Post-Classification-(General-Assembly-Course))
 
 ## Data Science Projects
 
@@ -60,3 +63,19 @@ Python
 *Aug 2021 | https://github.com/AndrewChiaYJ/Subreddit-classification*
 
 <img src="./Visualisations/Subreddit_classification.PNG">
+
+In this project, I attempted to classify posts from two subreddits -  [r/Stocks](https://www.reddit.com/r/stocks/)  and  [r/CryptoCurrency](https://www.reddit.com/r/cryptocurrency/).  The goal of this project is to apply machine learning techniques to curate and flag irrelevant content posts within each subreddit so as to improve the quality of users’ experience and grow the active user base for better advertising revenue potential. In classifying the posts, we also want to mitigate the risk of losing users to inappropriate removal of posts when they are actually relevant to the thread.
+
+I developed a word-frequency based classification model to predict the subreddit that a random post belongs to. The words of subreddit posts were processed by multiple NLP techniques, and being vectorized into data ( Count Vectorization and TF-IDF Vectorization). Then, a variety of models were tested and evaluated based on prediction accuracy, i.e. how many posts they were able to correctly classify, and prediction sensitivity, i.e. how many  post that is correctly classified within each subreddit. The final production model was a Logistic Regression classifier that makes predictions based on title content and post lengths being vectorized using the TF-IDF method, with an accuracy of 96.1%, and sensitivity of 97.3%. 
+
+To further improve model accuracy and ability to predict on future data, data samples from the subreddits can be collected across a longer time period.  With this model, it is possible to train and further optimise it for production across more subreddit communities. 
+
+#### Language
+
+Python
+
+#### Key Libraries
+
+`numpy` `pandas` `matplotlib` `seaborn` `requests` `regex` `nltk` `scikit-learn` `CountVectorizer` `TfidfVectorizer` `Logistic Regression` `BernoulliNB` `MultinomialNB` `GaussianNB`
+
+
