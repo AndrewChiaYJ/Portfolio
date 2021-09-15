@@ -6,16 +6,16 @@ Hello! I am Andrew, and I am aspiring to be Data Scientist, after working as a D
 ### Contents
 
 1. [Data Science Projects](#Data-Science-Projects)
-    - [Fake News Classification](#Fake-News-Classification-(General-Assembly-Course))
-    - [West Nile Virus Prediction](#2.-West-Nile-Virus-Prediction-(General-Assembly-Course))
-    - [Subreddit Post Classification](#3.-Subreddit-Post-Classification-(General-Assembly-Course))
-    - [Ames Housing Price Prediction](#4.-Ames-Housing-Price-Prediction-(General-Assembly-Course))
-    - [SAT and ACT Scores Analysis](#5.-SAT-and-ACT-Scores-Analysis-(General-Assembly-Course))
-<pre>
+    - [Fake News Classification](#1-fake-news-classification-general-assembly-course)
+    - [West Nile Virus Prediction](#2-west-nile-virus-prediction-general-assembly-course)
+    - [Subreddit Post Classification](#3-subreddit-post-classification-general-assembly-course)
+    - [Ames Housing Price Prediction](#4-ames-housing-price-prediction-general-assembly-course)
+    - [SAT and ACT Scores Analysis](#5-sat-and-act-scores-analysis-general-assembly-course)
+<br>
 
 
 
-</pre>
+</br>
 
 ## Data Science Projects
 
