@@ -6,9 +6,9 @@ Hello! I am Andrew, and I am aspiring to be Data Scientist, after working as a D
 ### Contents
 
 1. [Data Science Projects](#Data-Science-Projects)
-    - [Fake News Classification](#1.-Fake-News-Classification-(General-Assembly-Course))
-    - [West Nile Virus Prediction](#2.-West-Nile-Virus-Prediction-(General-Assembly-Course))
-    - [Subreddit Post Classification](#3.-Subreddit-Post-Classification-(General-Assembly-Course))
+    - [Fake News Classification](#-1.-Fake-News-Classification-(General-Assembly-Course))
+    - [West Nile Virus Prediction](#-2.-West-Nile-Virus-Prediction-(General-Assembly-Course))
+    - [Subreddit Post Classification](#-3.-Subreddit-Post-Classification-(General-Assembly-Course))
 
 ## Data Science Projects
 
@@ -78,4 +78,25 @@ Python
 
 `numpy` `pandas` `matplotlib` `seaborn` `requests` `regex` `nltk` `scikit-learn` `CountVectorizer` `TfidfVectorizer` `Logistic Regression` `BernoulliNB` `MultinomialNB` `GaussianNB`
 
+### 4. Ames Housing Price Prediction (General Assembly Course)
+
+*Jul 2021 | https://github.com/AndrewChiaYJ/Ames-Housing-Price-Prediction*
+
+<img src="./Visualisations/Ames_Housing_Price_Prediction.PNG">
+
+In this project, I have examined a comprehensive housing dataset from the city of Ames in Iowa, USA ([source](https://www.kaggle.com/c/dsi-us-6-project-2-regression-challenge/overview)). The goal of this project is to identify areas contributing to high transacted prices and volume of Houses in Ames, so as to help realtors to gain competitive advantage in the Ames Housing Market.
+
+After tested 3 different regression models using a variety of feature engineering techniques, a Ridge Model had the best predictive performance (with R2 of 0.82) on housing sale price in Ames USA. The model revealed top 10 features that will positively impact and top 10 features that will negatively impact housing price in Ames, as shown in the figure above.
+
+It was found that the location of the House matters. Houses in Northridge Height and Northridge would have a high price, whereas houses near neighborhood of Edwards, North Ames, and Old Town would have lower price. Furthermore, quality of house, especially the overall, exterior and kitchen quality, have positive impact to housing prices. The exterior materials of house will also impact the house pricing. Do avoid using HdBoard which has a poor moisture resisting property and require periodic inspection and maintenance. Do also avoid using Stucco as there is a wooden frame underneath and hence, it does not do well in wet climates with high snowfall. Other than above factors, the square footage of house also matters. Houses with 1st floor square footage of around 800-1200 are most commonly sold, as well as houses with Garage square footage of ~500. 
+
+The model may however have limited applicability. This dataset is limited, as it is lacking in some data. It would be good if demographic of neighborhood and buyers are included (age range, marital status, family size,  number of kids) so as to allow a more accurate analysis. Besides, sale price may need to take into account of inflation, and a real value of sale price could be calculated to further modified the model to become more accurate. Nevertheless, there will never be a perfect model; the aim of this model is therefore not to give a perfect prediction, but act as a guideline to inform decisions.
+
+#### Language
+
+Python
+
+#### Key Libraries
+
+`numpy` `pandas` `matplotlib` `seaborn` `scikit-learn` `LinearRegression` `Lasso` `Ridge`
 
