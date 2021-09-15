@@ -6,9 +6,12 @@ Hello! I am Andrew, and I am aspiring to be Data Scientist, after working as a D
 ### Contents
 
 1. [Data Science Projects](#Data-Science-Projects)
-    - [Fake News Classification](#-1.-Fake-News-Classification-(General-Assembly-Course))
-    - [West Nile Virus Prediction](#-2.-West-Nile-Virus-Prediction-(General-Assembly-Course))
-    - [Subreddit Post Classification](#-3.-Subreddit-Post-Classification-(General-Assembly-Course))
+    - [Fake News Classification](#1.-Fake News-Classification-(General-Assembly-Course))
+    - [West Nile Virus Prediction](#2.-West-Nile-Virus-Prediction-(General-Assembly-Course))
+    - [Subreddit Post Classification](#3.-Subreddit-Post-Classification-(General-Assembly-Course))
+    - [Ames Housing Price Prediction](#4.-Ames-Housing-Price-Prediction-(General-Assembly-Course))
+    - [SAT and ACT Scores Analysis](#5.-SAT-and-ACT-Scores-Analysis-(General-Assembly-Course))
+
 
 ## Data Science Projects
 
@@ -82,7 +85,7 @@ Python
 
 *Jul 2021 | https://github.com/AndrewChiaYJ/Ames-Housing-Price-Prediction*
 
-<img src="./Visualisations/Ames_Housing_Price_Prediction.PNG">
+<img src="./Visualisations/Ames_Housing_Price_Prediction.png">
 
 In this project, I have examined a comprehensive housing dataset from the city of Ames in Iowa, USA ([source](https://www.kaggle.com/c/dsi-us-6-project-2-regression-challenge/overview)). The goal of this project is to identify areas contributing to high transacted prices and volume of Houses in Ames, so as to help realtors to gain competitive advantage in the Ames Housing Market.
 
@@ -99,4 +102,23 @@ Python
 #### Key Libraries
 
 `numpy` `pandas` `matplotlib` `seaborn` `scikit-learn` `LinearRegression` `Lasso` `Ridge`
+
+
+### 5. SAT and ACT Scores Analysis (General Assembly Course)
+
+*Jul 2021 | https://github.com/AndrewChiaYJ/California-SAT-ACT-Scores-Analysis*
+
+In this project, I have examined trends in SAT and ACT scores of California students in the year 2019. The aim of this project is to look for ways to improve the college admission test results of students, so as to improve their college enrollment rates as California only have 63% of high school students able to enroll into a college. 
+
+Based on analyzing the SAT results, it is found that the bottom 5 counties in terms of median % of Year 12 students achieving scores above benchmarks for both subjects are Colusa, Glenn, Fresno, Los Angeles, and Monterey. Hence, it is recommended that government can focus on allocating more and higher quality teaching resources to these counties. Furthermore, based on a correlation study between % of Year 12 above math benchmark vs % of Year 12 above ERW benchmark, observe a strong +ve linear correlation, indicating that students with weak ERW background could possibly have weak Math background as well. As such, for these students in need, the state will need to provide additional or higher quality teaching resources for both Math and ERW subjects.  In addition, it is also observed that % of Year 12 above benchmark for Math subject is always smaller than % of Year 12 above benchmark for ERW, suggesting that students are weaker in Math generally. Hence, government would need to improve quality of current teaching resources in Math.
+
+Based on analyzing the ACT results, it is found that the bottom 5 counties in terms of median % of students obtaining >=21 composite scores are Modoc, Fresno, Monterey, Tehama, and Lake. Hence, it is recommended that the government can focus on allocating more and higher quality teaching resources to these counties. Besides, it was also observed that all 4 subjects shows strong +ve linear correlation to % of students obtaining >=21 composite score, suggesting that to increase the % of students obtaining >=21 composite scores, all the 4 subjects are equally important. Therefore,  for these students in need, the state will need to provide additional or higher quality teaching resources for all 4 subjects (Math, English, Reading, Science).
+
+#### Language
+
+Python
+
+#### Key Libraries
+
+`numpy` `pandas` `matplotlib` `seaborn` 
 
