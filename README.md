@@ -37,4 +37,4 @@ Python
 
 *Aug 2021 | https://github.com/AndrewChiaYJ/West-Nile-Virus-Prediction*
 
-<img src="./Visualisations/West_Nile_Virus_Prediction.png">
+<img src="./Visualisations/West_Nile_Virus_Prediction.PNG">
