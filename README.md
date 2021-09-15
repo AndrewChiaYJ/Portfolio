@@ -11,6 +11,6 @@ Hello! I am Andrew, and I am aspiring to be Data Scientist, after working as a D
 
 1. Fake News Classification (General Assembly Course)
 
-*Sep 2019 | https://github.com/AndrewChiaYJ/Fake-News-Classification*
+*Sep 2021 | https://github.com/AndrewChiaYJ/Fake-News-Classification*
 
-![Confusion Matrix](https://github.com/AndrewChiaYJ/Portfolio/tree/master/Visualisations/XGBoost_Confusion_Matrix.PNG)
+!(https://github.com/AndrewChiaYJ/Portfolio/tree/master/Visualisations/XGBoost_Confusion_Matrix.PNG)
