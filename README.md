@@ -6,12 +6,16 @@ Hello! I am Andrew, and I am aspiring to be Data Scientist, after working as a D
 ### Contents
 
 1. [Data Science Projects](#Data-Science-Projects)
-    - [Fake News Classification](#1.-Fake News-Classification-(General-Assembly-Course))
+    - [Fake News Classification](#Fake-News-Classification-(General-Assembly-Course))
     - [West Nile Virus Prediction](#2.-West-Nile-Virus-Prediction-(General-Assembly-Course))
     - [Subreddit Post Classification](#3.-Subreddit-Post-Classification-(General-Assembly-Course))
     - [Ames Housing Price Prediction](#4.-Ames-Housing-Price-Prediction-(General-Assembly-Course))
     - [SAT and ACT Scores Analysis](#5.-SAT-and-ACT-Scores-Analysis-(General-Assembly-Course))
+<pre>
 
+
+
+</pre>
 
 ## Data Science Projects
 
@@ -39,6 +43,11 @@ Python
 
 `numpy` `pandas` `matplotlib` `seaborn` `requests` `regex` `nltk` `tensorflow` `scikit-learn` `CountVectorizer` `TfidfVectorizer` `Pipeline` `LogisticRegression` `BernoulliNB` `MultinomialNB` `RandomForestClassifier` `AdaBoostClassifier` `GradientBoostingClassifier` `XGBClassifier` `SVC` `BertTokenizer ` `BERTModel` `Flask` 
 
+<pre>
+
+
+
+</pre>
 
 ### 2. West Nile Virus Prediction (General Assembly Course)
 
@@ -60,6 +69,11 @@ Python
 
 `numpy` `pandas` `matplotlib` `seaborn` `scikit-learn` `RandomForestClassifier` `AdaBoostClassifier` `GradientBoostingClassifier` `SVC` 
 
+<pre>
+
+
+
+</pre>
 
 ### 3. Subreddit Post Classification (General Assembly Course)
 
@@ -80,6 +94,13 @@ Python
 #### Key Libraries
 
 `numpy` `pandas` `matplotlib` `seaborn` `requests` `regex` `nltk` `scikit-learn` `CountVectorizer` `TfidfVectorizer` `Logistic Regression` `BernoulliNB` `MultinomialNB` `GaussianNB`
+
+
+<pre>
+
+
+
+</pre>
 
 ### 4. Ames Housing Price Prediction (General Assembly Course)
 
@@ -102,6 +123,13 @@ Python
 #### Key Libraries
 
 `numpy` `pandas` `matplotlib` `seaborn` `scikit-learn` `LinearRegression` `Lasso` `Ridge`
+
+
+<pre>
+
+
+
+</pre>
 
 
 ### 5. SAT and ACT Scores Analysis (General Assembly Course)
