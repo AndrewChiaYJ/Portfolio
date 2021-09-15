@@ -9,7 +9,7 @@ Hello! I am Andrew, and I am aspiring to be Data Scientist, after working as a D
 
 ## Data Science Projects
 
-1. Fake News Classification (General Assembly Course)
+### 1. Fake News Classification (General Assembly Course)
 
 *Sep 2021 | https://github.com/AndrewChiaYJ/Fake-News-Classification*
 
@@ -24,3 +24,17 @@ The final production model (XGBoost with Count Vectorization data) is able to cl
 With this high accuracy model, a simple flask website is built, as shown in the image above. Users are able to use this website to fact check on the news articles that they read, and to be more aware that the issue of fake news is prevalent. 
 
 Further expansions to include more news articles from various areas (healthcare, sports, entertainment), or from different countries (Singapore, Malaysia, Indonesia, UK, etc.) are possible.
+
+#### Language
+
+Python
+
+#### Key Libraries
+
+`numpy` `pandas` `matplotlib` `seaborn` `requests` `regex` `nltk` `tensorflow` `scikit-learn` `CountVectorizer` `TfidfVectorizer` `Pipeline` `LogisticRegression` `BernoulliNB` `MultinomialNB` `RandomForestClassifier` `AdaBoostClassifier` `GradientBoostingClassifier` `XGBClassifier` `SVC` `BertTokenizer ` `BERTModel` `Flask` 
+
+### 2. West Nile Virus Prediction (General Assembly Course)
+
+*Aug 2021 | https://github.com/AndrewChiaYJ/West-Nile-Virus-Prediction*
+
+<img src="./Visualisations/West_Nile_Virus_Prediction.png">
